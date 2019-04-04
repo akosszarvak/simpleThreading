@@ -1,0 +1,13 @@
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.exe.config
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.exe
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.pdb
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.exe
+C:\Users\user\Documents\pzwcrz\zh1\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.pdb
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.exe.config
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.exe
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\bin\Debug\ellenallaszh.pdb
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.csprojAssemblyReference.cache
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.csproj.CoreCompileInputs.cache
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.exe
+C:\Users\Firebird\Downloads\ellenallaszh\ellenallaszh\obj\Debug\ellenallaszh.pdb
